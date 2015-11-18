@@ -1,1 +1,1 @@
-Place any associated manuscripts in this folder.
+My final project write up and proposal. 

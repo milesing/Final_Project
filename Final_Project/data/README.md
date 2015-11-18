@@ -1,1 +1,1 @@
-Place any fixed data sets in this folder.
+The data set used from Spencer et al. 
